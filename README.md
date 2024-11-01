@@ -23,7 +23,7 @@ The dataset comprises telemetry data from 19 drivers, capturing various vehicle 
 ![image](https://github.com/user-attachments/assets/2279280b-67bd-49f0-a5be-2834e2c4ced7)
 ![image](https://github.com/user-attachments/assets/28731155-fcbc-4627-a510-a73f4fba9829)
 
-#K-Means
+# K-Means
 ![image](https://github.com/user-attachments/assets/9b829792-8c9a-4bba-ac7c-e0e5591d41cc)
 ![image](https://github.com/user-attachments/assets/410c53c6-8320-45b0-a07a-57b68d3a7608)
 
