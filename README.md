@@ -24,8 +24,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm joblib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/elkomy13/OBD.git>
    ```
 2. Place your dataset (e.g., `exp2_19drivers_1car_1route.csv`) in the project directory.
 3. Run the Jupyter Notebook or Python script to execute the data analysis and model training.
